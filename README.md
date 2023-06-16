@@ -1,4 +1,4 @@
-# Run e2e test
+# Run e2e Test
 Run ```npm run build``` and ```npm run start```, 
 then run one of the command below in another terminal window to start Cypress and run E2E testing suite.
 
